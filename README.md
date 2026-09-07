@@ -4,6 +4,9 @@ Aplicação desktop de gerenciamento de tarefas (**Task Manager**), desenvolvida
 
 Projeto pensado para portfólio: código organizado, comentado, testável e sem dependências externas em tempo de execução (apenas JDK).
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/UI-Java%20Swing-informational?style=for-the-badge)
+![License MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ---
 
 ## ✨ Funcionalidades
