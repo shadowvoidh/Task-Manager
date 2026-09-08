@@ -22,6 +22,29 @@ Projeto pensado para portfólio: código organizado, comentado, testável e sem 
 
 ---
 
+
+<div align="center">
+
+  <h2>💻 Compatibilidade Multiplataforma Desktop</h2>
+
+  <p>
+    Por utilizar <b>Java Swing</b>, a interface se adapta automaticamente ao visual (<i>Look & Feel</i>) nativo de cada sistema operacional, mantendo a mesma funcionalidade e persistência de dados no Windows, macOS e Linux.
+  </p>
+
+  <br>
+
+  <h3>Windows 🪟</h3>
+  <img src="assets/win-screenshot.png" alt="Windows Preview" width="85%">
+
+  <br><br>
+
+  <h3>macOS 🍎 / Linux 🐧</h3>
+  <img src="assets/mac-screenshot.png" alt="macOS Preview" width="85%">
+
+</div>
+
+---
+
 ## 🗂️ Estrutura do projeto
 
 ```
