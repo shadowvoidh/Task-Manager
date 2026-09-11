@@ -38,8 +38,12 @@ Projeto pensado para portfólio: código organizado, comentado, testável e sem 
 
   <br><br>
 
-  <h3>macOS 🍎 / Linux 🐧</h3>
+  <h3>MacOS 🍎 / Linux 🐧</h3>
+  <h3>MacOs</h3>
   <img src="assets/mac-screenshot.png" alt="macOS Preview" width="85%">
+  <br> 
+  <h3>Void Linux</h3>
+   <img src="assets/linux-screenshot.png" alt="macOS Preview" width="85%">
 
 </div>
 
