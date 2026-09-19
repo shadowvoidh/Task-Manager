@@ -1,3 +1,5 @@
+**[PT-BR ]** |   **[[ENG 🇺🇸 ]](README.en.md)**
+
 # 📋 Gerenciador de Tarefas — Java Swing
 
 Aplicação desktop de gerenciamento de tarefas (**Task Manager**), desenvolvida em **Java puro + Swing**, com persistência local em arquivo texto (`tasks.txt`) e arquitetura em camadas (Model / Repository / Service / View).
